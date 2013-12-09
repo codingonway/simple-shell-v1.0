@@ -7,6 +7,7 @@ simple shell just for learning
 
 
 ls -l > file1
+
 cat < infile | wc -l > outfile
 
 
